@@ -1,7 +1,16 @@
-# Gyógynövény Latin – Gyakorló
+🌿 Gyógynövény Latin – Gyakorló
 
-GitHub Pageshez készített képes latin–magyar és növényfelismerő gyakorlóoldal.
+Interaktív tanuló- és gyakorlóoldal gyógy- és fűszernövények felismeréséhez.
 
-Feltöltendő fájlok: `index.html`, `sprite.webp`, `.nojekyll`.
+🌱 Mit lehet itt gyakorolni?
 
-A növényképek egyetlen, tömörített sprite fájlban vannak, ezért az `index.html` jóval 25 MB alatt marad.
+🇭🇺 Magyar és latin növénynevek
+📸 Növényfelismerés képek alapján
+🧬 Növénycsaládok
+🃏 Tanulókártyák
+⚡ Kvízek és vizsgagyakorlás
+❌ A hibásan megválaszolt növények újbóli gyakorlása
+
+Az oldal elsősorban a gyógy- és fűszernövényeket tanuló hallgatók számára készült, de bárki szabadon használhatja gyakorlásra. 🌿📚
+
+Jó tanulást és sikeres vizsgát! 💚
